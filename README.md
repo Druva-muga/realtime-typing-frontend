@@ -21,20 +21,20 @@ npm run dev
 
 The client should look like this in the terminal (the console, the command prompt): 
 
-![Frontend terminal](https://imgur.com/a/AtTu8sA)
+![Frontend terminal](https://i.imgur.com/ZLXqjLk.png)
 
 To open the client in the browser (after you run the project), hit "o" in the above menu or visit:
 http://localhost:5173/
 
 It should look like this in the web browser, in this case Firefox: 
 
-![Frontend Firefox](https://imgur.com/a/4EufPCs)
+![Frontend Firefox](https://i.imgur.com/vyKpB1M.png)
 
 To check its working, you have to open two windows(or two tabs : http://localhost:5173/ ) and type in each of the windows, you'll see the text of one appearing in the other in the respective textareas of the windows.
 
 It should look like this on one computer, two web browsers: 
 
-![Two clients](https://imgur.com/a/dNL4oIA)
+![Two clients](https://i.imgur.com/VLOZByj.png)
 
 ----------------------------------------------------
 
@@ -62,4 +62,12 @@ Setting host: '0.0.0.0' allows other devices connected to the same WiFi or local
 
 It should look like this on two different computer each running the client: 
 
-![Two clients](https://imgur.com/a/VbwSrve)
+![Two clients](https://i.imgur.com/4VOsF1a.jpeg) 
+
+----------------------------------------------------
+
+### Credits
+
+Dimitrios - @dimitriost1 on GitHub - Frontend/client
+Druva Reddy - @Druva-muga  on GitHub - Backend/server
+John Michael Reed - @JohnReedLOL on GitHub - End client and PM (Project Manager)
