@@ -68,6 +68,8 @@ It should look like this on two different computer each running the client:
 
 ### Credits
 
-Dimitrios - @dimitriost1 on GitHub - Frontend/client
-Druva Reddy - @Druva-muga  on GitHub - Backend/server
-John Michael Reed - @JohnReedLOL on GitHub - End client and PM (Project Manager)
+Dimitrios - @dimitriost1 on GitHub - Frontend/client 
+
+Druva Reddy - @Druva-muga  on GitHub - Backend/server 
+
+John Michael Reed - @JohnReedLOL on GitHub - End client and PM (Project Manager) 
